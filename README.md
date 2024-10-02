@@ -75,4 +75,3 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
 
-Feel free to replace `<repository-url>` with the actual URL of your project repository and modify any details to better fit your project's specific requirements!
